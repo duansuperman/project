@@ -1,0 +1,5 @@
+Lệnh Git nhân bản : git clone ( đường dẫn )
+xem trạng thái thư mục Git : git status
+Thêm file vào git : git add (*/tên file)
+thêm vào local : git commit -m"comment"
+cập nhật lên server : git push
